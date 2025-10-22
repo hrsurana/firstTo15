@@ -5,7 +5,7 @@ You pick a board cell (A–I), then pick a unique number 1–9. Make any straigh
 
 **Why this exists:**
 I wanted to learn C. So I did the very C thing: print a banner, system("cls") the screen, sprinkle globals like parmesan, and make a game. If you came here looking for modern architecture… you’ll find character.
-TL;DR — How to play
+TL;DR — How to play 
 
 **The board is the classic 3×3 magic square mapping:**
 A B C      2 7 6
