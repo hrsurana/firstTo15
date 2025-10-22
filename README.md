@@ -6,12 +6,15 @@ You pick a board cell (A–I), then pick a unique number 1–9. Make any straigh
 
 **Why this exists:**
 I wanted to learn C. So I did the very C thing: print a banner, system("cls") the screen, sprinkle globals like parmesan, and make a game. If you came here looking for modern architecture… you’ll find character.
-TL;DR — How to play 
 
 **On your turn:**
+
 Choose a position (A–I) that isn’t taken.
+
 Choose a number (1–9) that hasn’t been used by anyone.
+
 First player to make a horizontal / vertical / diagonal line whose numbers sum to 15 wins.
+
 If all nine numbers are used and no 15, it’s a draw.
 
 **Modes:**
