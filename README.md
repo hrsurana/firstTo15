@@ -15,9 +15,9 @@ First player to make a horizontal / vertical / diagonal line whose numbers sum t
 If all nine numbers are used and no 15, it’s a draw.
 
 **Modes:**
-1 = Player vs Player
-2 = Player vs Computer (bot picks random valid moves)
-3 = Exit
+1 = Player vs Player\n
+2 = Player vs Computer (bot picks random valid moves)\n
+3 = Exit\n
 
 Bot is… random
 
