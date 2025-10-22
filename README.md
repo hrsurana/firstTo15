@@ -1,4 +1,4 @@
-**first-to-15 (C) — “it compiles on my machine™” edition**
+**first-to-15 (C) — “it compiles on my machine™” edition**:
 A very old learning project where Tic-Tac-Toe meets the Lo Shu magic square.
 
 You pick a board cell (A–I), then pick a unique number 1–9. Make any straight line that sums to 15 and you win. That’s it. Old-school console vibes, globals everywhere, and it’s honestly kind of fun.
