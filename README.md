@@ -20,4 +20,5 @@ If all nine numbers are used and no 15, it’s a draw.
 3 = Exit
 
 Bot is… random
+
 No strategy. Fun to beat, though.
